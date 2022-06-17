@@ -6,3 +6,4 @@ Documentations:
 
 API:
 - https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/
+- https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/
